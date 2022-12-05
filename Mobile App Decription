@@ -1,0 +1,27 @@
+Project description
+
+After sitting here reflecting on my last 20 years as a newly retired Air Force member. I was looking at all my pictures but they were scattered in different places. I want to create a app where all your “Marked Visions” (experiences, goals, pictures, etc.) can come to life and all in one place. 
+
+The version will be using Android 13.0 (Tiramisu), but the minimum SDK will be Android 5.0 which will run on approximately 98.8% of devices.
+
+•	The readme is located in GitHub here Mobile-App-Project/README.md at main · WillMarkVisions/Mobile-App-Project (github.com)
+
+Problem addressing
+•	The amount of memory needed might be a problem. The right amount of information to add will need to be just enough at the start.
+
+Platform
+•	Android 13.0 Tiramisu
+
+Front/Back-end support
+•	Android OS, will use Java for programming language using Android Studio
+
+
+Functionality
+•	I want the user to be able to copy/paste, send pictures, edit, create all in one application. I want the user to change and customize the application to fit there “Marked Visions” experiences. 
+
+Design (wireframes)
+•	3 Design Wireframes
+
+Changes (wireframes)
+•	I want to implement single sign on (such as Google login), to track your already saved items. 
+•	Add another wireframe to include calenders
